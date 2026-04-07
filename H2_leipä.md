@@ -110,8 +110,8 @@ Tulos playbookista ensimmäisen kerran ajettuna:
 <img width="1867" height="874" alt="image" src="https://github.com/user-attachments/assets/8bc1c9f2-85cb-4a2f-a912-e0a01e2d1d87" />
 
 Lähteet:
-- Karvinen 2026, luettu 7.4.2026: https://terokarvinen.com/passwordless-sudo/
-- Karvinen 2026, luettu 7.4.2026: https://terokarvinen.com/passwordless-sudo-with-ansible/ 
-- Munroe 2006, luettu 7.4.2026: https://xkcd.com/149/
-- Panovski 2026, luettu 7.4.2026: https://linuxize.com/post/how-to-set-or-change-timezone-on-debian-13/ 
+- Karvinen 2026, luettavissa: https://terokarvinen.com/passwordless-sudo/ luettu 7.4.2026.
+- Karvinen 2026, luettavissa: https://terokarvinen.com/passwordless-sudo-with-ansible/ luettu 7.4.2026.
+- Munroe 2006, luettavissa: https://xkcd.com/149/ luettu 7.4.2026.
+- Panovski 2026, luettavissa: https://linuxize.com/post/how-to-set-or-change-timezone-on-debian-13/ luettu 7.4.2026.
 
