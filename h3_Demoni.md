@@ -70,3 +70,11 @@ Tämän ilmeisesti johtui siitä kun skripti olettaa että apache2 on asennettun
 ja tässä on lopputulos:
 
 <img width="1564" height="1129" alt="image" src="https://github.com/user-attachments/assets/33d53282-f9f6-49a6-87e2-37e5f8aa5f2b" />
+
+Lähteet: 
+
+Ansible Community Documentation: https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_handlers.html
+
+How to Set Up an Nginx Web Server on Debian – Step-by-Step Tutorial https://www.youtube.com/watch?v=Ny99tBsuTfg
+
+Karvinen 2026: [Apache installed with Ansible - quick notes](https://terokarvinen.com/apache-ansible/)
