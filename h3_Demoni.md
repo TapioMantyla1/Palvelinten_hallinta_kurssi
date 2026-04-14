@@ -22,23 +22,31 @@ Konfiguraation päivitys: Käytetään usein restarted-tilaa, jotta uudet asetuk
 Tehtävän teko:
 a) 
 <img width="1242" height="596" alt="image" src="https://github.com/user-attachments/assets/0d12de48-e857-4751-a32a-ba704e403aa3" />
+
 Ensiksi katsoin komennolla "systemctl status apache2" että apache on käynnissä, jonka jälkeen muutin html hakemiston oikeuksia niin, että käyttäjänä minulla on täydet oikeudet (7), jonka jälkeen menin hemistoon.
 
 <img width="773" height="222" alt="image" src="https://github.com/user-attachments/assets/0990d2af-2d1b-4da6-b663-a322ea7000e3" />
+
 Seuraavaksi poistin jo olemassa olevan 'index.html' tiedoston ja loin uuden microlla.
 
 <img width="583" height="127" alt="image" src="https://github.com/user-attachments/assets/850a0e9d-726e-4fe5-a56a-f6554d1525f0" />
+
 Microon kirjoitin nuo asiat ^
 
 <img width="671" height="247" alt="image" src="https://github.com/user-attachments/assets/63943e24-47ae-45b9-9838-30a8ca1e3025" />
+
 Sitten katsoin että nettisivulle tulee kirjoittamani tekstit
 
 ngnixin asennus b)
+
 <img width="839" height="505" alt="image" src="https://github.com/user-attachments/assets/e8655d5b-6f67-4975-a694-f3fd3848d4a8" />
 
 ensiksi latasin nginxin jonka jälkeen katsoin että onko ohjemlisto päällä mutta ei ollut
+
 <img width="1573" height="293" alt="image" src="https://github.com/user-attachments/assets/ac78599f-3175-42cd-81de-9d0048ffb898" />
+
 Tämä ilmeisesti johtui siitä, kun aikaisemmin käytössä ollut apache2 oli taustalla myös päällä joten sammutin sen ja käynnistin nginxin uudelleen
+
 <img width="1156" height="199" alt="image" src="https://github.com/user-attachments/assets/efe75255-76bf-4ec7-a151-6450ecc1365d" />
 
 <img width="540" height="158" alt="image" src="https://github.com/user-attachments/assets/25e33c25-56ad-4473-8101-aa616b28dfe6" />
@@ -47,11 +55,18 @@ Tämä ilmeisesti johtui siitä, kun aikaisemmin käytössä ollut apache2 oli t
 Muokkasin tiedostoa "index.html" ja katsoin että näkyykö se paikallisesti
 
 c) Automatisoidaan nginxin asennys ansiblella
-Loin uuden tiedoston microlla 'micro install_nginx.yml' johon kirjoitin seuraavan skriptin: 
+Loin uuden tiedoston microlla 'micro install_nginx.yml' johon kirjoitin seuraavan skriptin:
+
 <img width="984" height="777" alt="image" src="https://github.com/user-attachments/assets/17384395-2531-4407-92ab-6e01ef92358a" />
+
 sitten kun yritin ajaa playbookkia niin tuli virheilmoitus: 
+
 <img width="1564" height="988" alt="image" src="https://github.com/user-attachments/assets/84574ae0-ac3d-40d5-9af5-2332aa061df9" />
+
 Tämän ilmeisesti johtui siitä kun skripti olettaa että apache2 on asennettuna ja kun sitä ei ollut asennettuna niin se jää erroriin, joten muutin skriptin seuraavaksi: 
+
 <img width="963" height="746" alt="image" src="https://github.com/user-attachments/assets/b888d744-f95f-41f5-ab4e-fff4e882df9d" />
+
 ja tässä on lopputulos:
+
 <img width="1564" height="1129" alt="image" src="https://github.com/user-attachments/assets/33d53282-f9f6-49a6-87e2-37e5f8aa5f2b" />
