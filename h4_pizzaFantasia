@@ -15,5 +15,4 @@
 
 2. h4 Pizza Fantasia
 Valitsin Postgresql daemon ladattavaksi
-komennolla: sudo apt install postgresql, jonka jälkeen testasin että se toimii: 
-
+komennolla: sudo apt install postgresql, jonka jälkeen testasin että se toimii:  
