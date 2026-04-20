@@ -14,5 +14,15 @@
 - Idempotenssi = ohjelma tekee muutoksia vain jos on tarve, esimerkiksi ohjelma luo uuden tiedoston jos sellaista ei löytynyt (if-komento)
 
 2. h4 Pizza Fantasia
-Valitsin Postgresql daemon ladattavaksi
-komennolla: sudo apt install postgresql, jonka jälkeen testasin että se toimii:  
+a) Valitsin Postgresql daemon ladattavaksi komennolla: sudo apt install postgresql, jonka jälkeen testasin että se toimii:  
+
+
+
+b) Seuraavaksi loin automatisoivan skriptin joka näyttää tältä:
+
+
+
+c) 
+Lähteet: 
+Karvinen 2023, kohdat 4.12.1, 4.12.2 ja 4.12.3.1 luettu 20.4.2026: https://westminsterresearch.westminster.ac.uk/item/w7vvz/configuration-management-of-distributed-systems-over-unreliable-and-hostile-networks
+The PostgreSQL Global Development Group, PostgreSQL Downloads: https://www.postgresql.org/download/linux/debian/
