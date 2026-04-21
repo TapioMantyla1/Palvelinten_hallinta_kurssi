@@ -46,4 +46,6 @@ e) Tässä näkyy että tila on idempotentti, eli ei tee mitään muutoksia elle
 
 Lähteet: 
 Karvinen 2023, kohdat 4.12.1, 4.12.2 ja 4.12.3.1 luettu 20.4.2026: https://westminsterresearch.westminster.ac.uk/item/w7vvz/configuration-management-of-distributed-systems-over-unreliable-and-hostile-networks
+
+
 The PostgreSQL Global Development Group, PostgreSQL Downloads: https://www.postgresql.org/download/linux/debian/
