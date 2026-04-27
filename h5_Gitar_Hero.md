@@ -57,6 +57,14 @@ Ensiksi menin ansible hakemistoon ja katsoin mitä siellä on, jonka jälkeen lo
 
 <img width="1617" height="677" alt="image" src="https://github.com/user-attachments/assets/00cffce5-b700-43b7-a8ef-7fd4f76d6eaf" />
 
+Sitten linkkasin hakemiston githubiin:
+
+<img width="2116" height="84" alt="image" src="https://github.com/user-attachments/assets/3688b9a1-a536-4c70-8194-2296b04f2c6f" />
+
+jonka jälkeen työnsin halutut tiedostot:
+
+<img width="1247" height="420" alt="image" src="https://github.com/user-attachments/assets/5ea70831-0c41-4263-87b9-302ccb92bdbe" />
+
 Seuraavaksi muokkasin ansible kansiosta hosts.ini tiedostoa:
 
 <img width="941" height="281" alt="image" src="https://github.com/user-attachments/assets/cac4ece2-b3c7-43de-b6a4-ddba09eb7d07" />
@@ -69,6 +77,9 @@ Tämän jälkeen committasin ja työnsin muutoksen githubiin:
 
 <img width="1377" height="522" alt="image" src="https://github.com/user-attachments/assets/8e189d25-f172-4de8-b773-57134f73d582" />
 
+hosts.ini näkymä githubissa:
+
+<img width="888" height="472" alt="image" src="https://github.com/user-attachments/assets/a341652c-7fc4-4c12-93f5-7e81b30b4b89" />
 
 
 - Lähteet:
