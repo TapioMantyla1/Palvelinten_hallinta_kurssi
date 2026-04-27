@@ -83,4 +83,6 @@ hosts.ini näkymä githubissa:
 
 
 - Lähteet:
-https://medium.com/@speaktoharisudhan/git-add-git-commit-git-push-git-clone-git-branch-git-git-communications-8fcfac467748
+
+Chacon and Straub 2014: https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F 
+(Harisudhan.s 5.6.2025) medium: git add || git commit || git push || git clone || git branch || .git || git communication || Best Practices (luettu 27.4.2026) https://medium.com/@speaktoharisudhan/git-add-git-commit-git-push-git-clone-git-branch-git-git-communications-8fcfac467748
