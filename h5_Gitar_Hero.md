@@ -12,3 +12,12 @@
 
 3. Tehtävän teko:
 a) 
+
+
+
+
+
+
+
+- Lähteet:
+https://medium.com/@speaktoharisudhan/git-add-git-commit-git-push-git-clone-git-branch-git-git-communications-8fcfac467748
