@@ -81,6 +81,8 @@ hosts.ini näkymä githubissa:
 
 <img width="888" height="472" alt="image" src="https://github.com/user-attachments/assets/a341652c-7fc4-4c12-93f5-7e81b30b4b89" />
 
+F) pari on hankittu!
+
 
 - Lähteet:
 
